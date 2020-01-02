@@ -3,7 +3,7 @@
 
 [![GitHub Tag](https://img.shields.io/github/tag/tcm0116/smartthings-mqtt-proxy.svg)](https://github.com/tmc0116/smartthings-mqtt-proxy/releases)
 
-This project was spawned by the desire to integrate [AqualinkD](https://github.com/sfeakes/AqualinkD) with SmartThings and is based on [smartthings-mqtt-bridge](https://github.com/stjohnjohnson/smartthings-mqtt-bridge).  Since AqualinkD already supports MQTT, we chose to go and build a bridge between SmartThings and MQTT.
+This project was spawned by the desire to integrate [AqualinkD](https://github.com/sfeakes/AqualinkD) with SmartThings and is based on [smartthings-mqtt-bridge](https://github.com/stjohnjohnson/smartthings-mqtt-bridge).  Since AqualinkD already supports MQTT, we chose to modify smartthings-mqtt-bridge to act as a proxy between SmartThings and MQTT.
 
 # MQTT Events
 
